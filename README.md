@@ -1,4 +1,3 @@
-# WEEK---2-PROJECT
 # Frog Leap Puzzle Game
 
 ## Introduction
